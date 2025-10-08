@@ -1,32 +1,35 @@
 {
-  "name": "idl",
-  "version": "1.0.0",
-  "description": "Technical analysis indicators library using Yahoo Finance data",
+  "name": "anjaliyzer",
+  "version": "2.0.0",
+  "description": "Anjaliyzer - CLI Trend Analyzer with 50 indicators for crypto, forex, and stocks",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
-    "technical-analysis",
     "trading",
+    "crypto",
+    "forex",
+    "stocks",
+    "technical-analysis",
     "indicators",
-    "finance",
-    "stocks"
+    "anjaliyzer"
   ],
-  "author": {
-    "name": "Shiva Yadav",
-    "url": "https://github.com/shivaya-dav"
-  },
+  "author": "shivaya-dav (GitHub) | shivaya.dav (Instagram)",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shivaya-dav/idl"
+    "url": "https://github.com/shivaya-dav/anjaliyzer"
   },
-  "license": "ISC",
+  "homepage": "https://github.com/shivaya-dav/anjaliyzer#readme",
+  "bugs": {
+    "url": "https://github.com/shivaya-dav/anjaliyzer/issues"
+  },
   "dependencies": {
+    "yahoo-finance2": "^2.11.3",
+    "mathjs": "^12.4.1",
     "chalk": "^5.3.0",
-    "mathjs": "^12.0.0",
-    "yahoo-finance2": "^2.8.1"
+    "inquirer": "^9.2.15"
   }
 }
