@@ -1,1 +1,26 @@
-
+{
+  "crypto": [
+    "BTC-USD", "ETH-USD", "BNB-USD", "XRP-USD", "ADA-USD",
+    "DOGE-USD", "SOL-USD", "DOT-USD", "MATIC-USD", "LTC-USD",
+    "AVAX-USD", "LINK-USD", "UNI-USD", "ATOM-USD", "XLM-USD",
+    "ALGO-USD", "VET-USD", "FIL-USD", "TRX-USD", "ETC-USD",
+    "HBAR-USD", "APT-USD", "ARB-USD", "OP-USD", "INJ-USD"
+  ],
+  "forex": [
+    "EURUSD=X", "GBPUSD=X", "USDJPY=X", "AUDUSD=X", "USDCAD=X",
+    "USDCHF=X", "NZDUSD=X", "EURGBP=X", "EURJPY=X", "GBPJPY=X",
+    "AUDJPY=X", "EURAUD=X", "EURCHF=X", "GBPAUD=X", "GBPCAD=X"
+  ],
+  "stocks": [
+    "AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "TSLA", "META", "BRK-B",
+    "V", "JPM", "JNJ", "WMT", "PG", "MA", "UNH", "HD", "DIS", "BAC",
+    "ADBE", "CRM", "NFLX", "CSCO", "PEP", "KO", "INTC", "NKE", "AMD",
+    "PYPL", "CMCSA", "ORCL", "ABT", "VZ", "T", "MRK", "COST", "TMO",
+    "AVGO", "PFE", "ABBV", "ACN", "TXN", "DHR", "NEE", "LIN", "UNP",
+    "HON", "UPS", "QCOM", "RTX", "LOW", "MS", "SPGI", "INTU", "CAT",
+    "GS", "IBM", "BA", "SBUX", "AMAT", "BLK"
+  ],
+  "indices": [
+    "^GSPC", "^DJI", "^IXIC", "^FTSE", "^N225", "^HSI", "^GDAXI"
+  ]
+}
