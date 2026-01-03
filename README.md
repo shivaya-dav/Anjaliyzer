@@ -453,7 +453,7 @@ npm install
 ### 📧 **Contact for Custom Solutions**
 
 **GitHub:** [@shivaya-dav](https://github.com/shivaya-dav)  
-**Instagram:** [@shivaya.dav](https://instagram.com/shivaya.dav)
+
 
 *💡 Free consultation available!*
 
@@ -472,7 +472,7 @@ npm install
 **Full-Stack Developer | Algo Trading Specialist | Technical Analysis Expert**
 
 [![GitHub](https://img.shields.io/badge/GitHub-shivaya--dav-181717?style=for-the-badge&logo=github)](https://github.com/shivaya-dav)
-[![Instagram](https://img.shields.io/badge/Instagram-@shivaya.dav-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/shivaya.dav)
+
 
 </div>
 
